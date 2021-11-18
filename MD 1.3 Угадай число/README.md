@@ -35,6 +35,7 @@
 ![image](https://user-images.githubusercontent.com/72358616/142428011-719dc6ba-6552-4191-a0ca-b7a0ed4b6fb3.png)
 
 Работа приложения:
+
 ![image](https://user-images.githubusercontent.com/72358616/142428054-373b564d-d40f-4192-b472-b414ae909978.png)
 ![image](https://user-images.githubusercontent.com/72358616/142428069-0e46bac2-18a8-4828-8029-7a60719026c6.png)
 ![image](https://user-images.githubusercontent.com/72358616/142428083-dccb40ca-0ae7-47be-9062-ec878b3a5cd5.png)
