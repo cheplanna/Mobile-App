@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guess_number</string>
+    <string name="behind">Меньше, чем надо</string>
+    <string name="ahead">Больше, чем надо</string>
+    <string name="hit">Ура, именно это!</string>
+    <string name="input_value">Введите число: </string>
+    <string name="play_more">Сыграть ещё</string>
+    <string name="try_to_guess">Попробуйте угадать число (0 до  </string>
+    <string name="error">Неверный ввод</string>
+    <string name="exit">Выход</string>
+    <string name="the_lightest">Легкий уровень</string>
+    <string name="medium">Нормальный уровень</string>
+    <string name="hard">Тяжелый уровень</string>
+
+</resources>
